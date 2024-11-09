@@ -1,3 +1,3 @@
-module github.com/Siddhartha082/go-web-app              
+module github.com/siddhartha082/go-web-app              
 
-go 1.23.2
+go 1.22.5
